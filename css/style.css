@@ -113,8 +113,7 @@ color: #FFFFFF;
 }
 
 .columns{
-display:flex;
-flex-direction:column;
+
 height:463px;
 justify-content: flex-end;
 }
